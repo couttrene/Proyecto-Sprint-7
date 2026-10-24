@@ -11,5 +11,5 @@ Esta es una aplicación web interactiva desarrollada con **Streamlit** y **Plotl
 ## Requisitos e Instalación Local
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://proyecto-sprint-7-fr9k.onrender.com>
    cd Proyecto-Sprint-7
