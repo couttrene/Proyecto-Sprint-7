@@ -13,3 +13,9 @@ Esta es una aplicación web interactiva desarrollada con **Streamlit** y **Plotl
    ```bash
    git clone <https://proyecto-sprint-7-fr9k.onrender.com>
    cd Proyecto-Sprint-7
+
+## Instalar:
+pip install -r requirements.txt
+
+## Ejecutar:
+streamlit run app.py
